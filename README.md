@@ -8,4 +8,6 @@ Repository ini berisi kumpulan modul-modul suplemen untuk praktikum <b>Pemrogram
 Silakan manfaatkan sebaik-baiknya untuk belajar mandiri. Semoga bermanfaat, dan semoga sukses selalu.
 
 <p>Rosihan Ari Yuana</a>
-<p>https://rosihanari.net</p>
+* Website: https://rosihanari.net
+* Email: rosihanari@gmail.com
+* WA: https://wa.me/6285716191979
